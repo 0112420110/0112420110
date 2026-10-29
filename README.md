@@ -1,42 +1,55 @@
-# Hi, I'm Jannatul Nyem👋
+# Hi, I'm Jannatul Nyem 👋
 
-**CSE student | Data Structures & Algorithms | Web developer**
+**CSE student | Data Structures & Algorithms | Java (Spring Boot) & Web Developer**
 
-I enjoy problem solving and helping others understand programming concepts. I solve problems using data structures and algorithms, and build web applications with Java (Spring Boot), PHP, MySQL, and JavaScript.
+I enjoy solving problems and explaining how code works. I practice data structures and algorithms in C, and I build full-stack web applications with Java (Spring Boot), PHP, MySQL and JavaScript.
 
+---
 
 ## 🛠️ Skills
 
-- **Programming (DSA):** C (primary), Java
-- **Data Structures & Algorithms:** Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting & Searching, Recursion, Greedy Algorithms, Dynamic Programming, Hashing
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** Java (Spring Boot), PHP
-- **APIs:** REST APIs with Spring Boot
-- **Database:** MySQL, database design (DBMS)
-- **Tools:** Git, GitHub, VS Code
+| Area | Technologies |
+|------|--------------|
+| **Problem solving** | C (primary), Java, Data Structures & Algorithms |
+| **Backend** | Java, Spring Boot, Spring Security, REST APIs, JWT, PHP |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Database** | MySQL, database design (DBMS), JPA/Hibernate |
+| **Tools** | Git, GitHub, Maven, IntelliJ IDEA, VS Code |
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ [Airline Management System](https://github.com/0112420110/airline-management)
+Full-stack booking and administration app built with **Spring Boot, MySQL and JWT**.
+- Role-based access for customers and admins
+- Dynamic pricing using the Strategy design pattern
+- Flight, aircraft, crew, booking and payment management with revenue and occupancy reports
+- Live flight-status updates through a multithreaded TCP socket server
+- AI assistant chat powered by the Gemini API
+
+### 🧠 [DSA Solutions](https://github.com/0112420110/dsa-solutions)
+Data structures and algorithms programs in **C**, organized by topic.
+- Recursion, searching, sorting, stack, queue
+- Graphs: BFS, DFS, connected components, bipartite check, cycle detection
+- Divide and conquer, greedy (activity selection, Huffman coding), dynamic programming
+- Hashing, minimum spanning trees (Kruskal, Prim), string matching (Rabin-Karp)
+
+---
 
 
-## 🧠 Data Structures & Algorithms
+## 🔭 Currently
 
-I practice problem solving regularly and keep my solutions organized with explanations.
+- Building more projects with Spring Boot and MySQL
+- Adding explanations and complexity notes to my DSA solutions
+- Exploring bioinformatics and how algorithms apply to biological data
 
-- 📂 [DSA-Solutions-Repository](https://github.com/0112420110/dsa-solutions): implementations and solved problems with comments
-- Topics covered: [Sorting, Trees, Graph traversal (BFS/DFS),Greedy Algorithm etc.]
-
-
-
-## 🚀 Featured Web Projects
-
-| [Project Name 1](https://github.com/your-username/project-1) | One line about what it does | PHP, MySQL |
-| [Project Name 2](https://github.com/your-username/project-2) | One line about what it does | HTML, CSS, JavaScript |
-
+---
 
 ## 📫 Contact
 
 - **Email:** jnyemshourin@gmail.com
-- **LinkedIn:** www.linkedin.com/in/jannatul-nyem-956903392/0112420110
+- **LinkedIn:** [linkedin.com/in/0112420110](https://linkedin.com/in/jannatul-nyem-956903392/0112420110)
 - **Location:** Dhaka, Bangladesh
-
-
 
 ⭐ Thanks for visiting my profile!
