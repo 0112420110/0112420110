@@ -20,7 +20,7 @@ I enjoy problem solving and helping others understand programming concepts. I so
 
 I practice problem solving regularly and keep my solutions organized with explanations.
 
-- 📂 [DSA Solutions Repository](https://github.com/your-username/dsa-solutions): implementations and solved problems with comments
+- 📂 [DSA-Solutions-Repository](https://github.com/your-username/dsa-solutions): implementations and solved problems with comments
 - Topics covered: [Sorting, Trees, Graph traversal (BFS/DFS),Greedy Algorithm etc.]
 
 
